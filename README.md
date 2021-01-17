@@ -1,7 +1,7 @@
 # Recurrent_Neural_Network_With_LSTM_Trend_Predictor
 
 
-*Recurrent Neural Network
+Recurrent Neural Network
 
 
 Sometimes we required to remember the data or result from previous or past
