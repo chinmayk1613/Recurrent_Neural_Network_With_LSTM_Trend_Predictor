@@ -2,6 +2,8 @@
 
 
 *Recurrent Neural Network
+
+
 Sometimes we required to remember the data or result from previous or past
 actions on which current decisions might get impacted. When we are under the relm
 of Machine Learning, vanila neural networks learn the things during the training.
