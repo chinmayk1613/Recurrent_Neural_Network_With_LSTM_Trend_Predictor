@@ -12,4 +12,11 @@ Lont-Short Term Memory(LSTM)
 
 LSTM's are special kind of RNN which is capable of long-term learning dependencies. LSTM's main aim is to remembering the information for long time and hence it will input in a learning process. LSTM have chain like structure which have different structure than standard neural networks. LSTM has four layered structure which they can interact in a special way. There are three gates namely Forget Gate, Input Gate and Output Gate through which information is regulated. Cell state is act like conveyer belt which carry information with very minor changes in LTSM.
 
+Result Interpretation 
+
+Here key point is to understand that the goal is to check whether the predicted stock price pattern follows the real stock price pattern or not. I train the model with historical data near about last 10 years of TCS stock prices(OPEN price, CLOSE price) and try to predict the price and hence pattern for the month of september-2020.
+
+
+![bold](1. TCS Open Price Trend SEP-20)
+
 ![Alt text](/Results/TCS_OPEN_PRICE_TREND.JPG?raw=true "TCS Open Price Trend")
