@@ -11,3 +11,8 @@ Lont-Short Term Memory(LSTM)
 
 
 LSTM's are special kind of RNN which is capable of long-term learning dependencies. LSTM's main aim is to remembering the information for long time and hence it will input in a learning process. LSTM have chain like structure which have different structure than standard neural networks. LSTM has four layered structure which they can interact in a special way. There are three gates namely Forget Gate, Input Gate and Output Gate through which information is regulated. Cell state is act like conveyer belt which carry information with very minor changes in LTSM.
+
+
+Results:
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
