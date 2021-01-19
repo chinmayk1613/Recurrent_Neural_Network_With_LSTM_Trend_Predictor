@@ -17,6 +17,11 @@ Result Interpretation
 Here key point is to understand that the goal is to check whether the predicted stock price pattern follows the real stock price pattern or not. I train the model with historical data near about last 10 years of TCS stock prices(OPEN price, CLOSE price) and try to predict the price and hence pattern for the month of september-2020.
 
 
-![bold](1. TCS Open Price Trend SEP-20)
+1. TCS Open Price Trend SEP-20
 
 ![Alt text](/Results/TCS_OPEN_PRICE_TREND.JPG?raw=true "TCS Open Price Trend")
+
+
+2. TCS Close Price Trend SEP-20
+
+![Alt text](/Results/TCS_CLOSE_PRICE_TREND.JPG?raw=true "TCS Open Price Trend")
